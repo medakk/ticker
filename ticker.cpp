@@ -214,7 +214,7 @@ int main(int argc, char** argv) {
 		refresh();
 		
 		// sleep
-		usleep(0.018 * 1000000);
+		usleep(0.018 * 1000000); //assuming fixed update rate of 60Hz
 	}
 
 	return 0;
