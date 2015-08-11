@@ -32,7 +32,7 @@ void drawEmptyBox(int x, int y, int w, int h);
 // global variables
 ///////////////////////////////////////
 int width, height, startX, startY; //width/height of each tick's cell
-float tempo = 80.0;
+jfloat tempo = 80.0; //added a syntax error! :p
 Timesig timesig = {4,4};
 
 ///////////////////////////////////////
