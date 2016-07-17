@@ -1,6 +1,7 @@
 # ticker
 
 A Visual Metronome designed in C++ using ncurses
+
 <center><img src="https://raw.githubusercontent.com/medakk/ticker/master/readme_imgs/ticker_demo.gif" alt="Demo gif for ticker" width=70% height=70% /></center>
 
 <br>
