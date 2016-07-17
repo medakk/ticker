@@ -1,11 +1,11 @@
 # ticker
 
 A Visual Metronome designed in C++ using ncurses
-<center><img src="https://raw.githubusercontent.com/medakk/ticker/master/readme_imgs/1.png" alt="Demo image for ticker" width=90% height=90% /></center>
+<center><img src="https://raw.githubusercontent.com/medakk/ticker/master/readme_imgs/ticker_demo.gif" alt="Demo gif for ticker" width=100% height=100% /></center>
 
 <br>
 
-To build, make sure the ncurses development library for your distro is installed. Then run:
+To build, make sure the ncurses development library for your distro is installed. Then execute:
 
     $ make
 
